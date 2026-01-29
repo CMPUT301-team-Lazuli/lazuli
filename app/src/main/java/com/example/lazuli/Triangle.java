@@ -1,5 +1,5 @@
 package com.example.lazuli;
 
-public class Triangle extends Shape
-{
+public class Triangle extends Shape{
+    
 }
