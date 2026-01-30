@@ -1,2 +1,4 @@
 # lazuli
-The lab 4 participation exercise
+Name: Lucas Pham  
+CCID: tuankiet
+Student ID: 1809441
